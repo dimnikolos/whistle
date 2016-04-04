@@ -55,7 +55,7 @@
         blocks: [
         ['r', 'whistle','whistle']
         ],
-        url: 'http://dimnikolos.github.io/Scratch2015AMS' // Link to extension documentation, homepage, etc.
+        url: 'http://dimnikolos.github.io/whistle' // Link to extension documentation, homepage, etc.
     };
 
     // Register the extension
