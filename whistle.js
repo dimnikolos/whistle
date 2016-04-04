@@ -54,9 +54,7 @@
       if (maxindex > threshold){
         return(true);
       }
-      else{
-        return(false);
-      }
+      return(false);
     }
 
     // Block and block menu descriptions
