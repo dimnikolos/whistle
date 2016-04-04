@@ -50,18 +50,10 @@
         return(maxindex);
     }
 
-    ext.whistlethreshold = function(threshold){
-      if (maxindex > threshold){
-        return(true);
-      }
-      return(false);
-    }
-
     // Block and block menu descriptions
     var descriptor = {
         blocks: [
-        ['r', 'whistle','whistle'],
-        ['h', 'when whistle > %n','whistlethreshold',50]
+        ['r', 'whistle','whistle']
         ],
         url: 'http://dimnikolos.github.io/whistle' // Link to extension documentation, homepage, etc.
     };
