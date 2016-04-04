@@ -63,7 +63,7 @@
     var descriptor = {
         blocks: [
         ['r', 'whistle','whistle'],
-        ['h', 'when whistle > %n',50]
+        ['h', 'when whistle > %n','whistlethreshold',50]
         ],
         url: 'http://dimnikolos.github.io/whistle' // Link to extension documentation, homepage, etc.
     };
