@@ -1,0 +1,6 @@
+{
+  "name": "Whistle",
+  "tagline": "A ScratchX extension that reports whistles!",
+  "body": "### ScratchX extension for whistles!\r\nThis is a simple ScratchX extension that implements a reporter for the frequency of your whistle.\r\n[Launch ScratchX with whistle extension](http://scratchx.org/?url=https://github.io/dimnikolos/whistle/whistle.js)\r\nIt is build with WebRTC, and it heavily uses code from [Kanasansof](http://www.kanasansoft.com/Kanasansoft/getusermedia_and_analyser/index.html).\r\n### Demo project\r\n[Download a demo project]()\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
